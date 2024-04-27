@@ -1,3 +1,4 @@
+import inquirer from "inquirer"
 //OBJECT
 /*let user1: {
     name: "Ayesha",
